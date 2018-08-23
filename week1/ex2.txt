@@ -1,0 +1,24 @@
+  574  ls
+  575  ls
+  576  sh exercise1.sh 
+  577  ls
+  578  cd ~
+  579  ls
+  580  cd week1/
+  581  ls
+  582  cat ex1.txt 
+  583  cd ..
+  584  ls
+  585  rmdir week1/
+  586  rmdir -r week1/
+  587  rmdir -r week1/
+  588  rmdir help
+  589  man rmdir
+  590  ls
+  591  rm week1/
+  592  rm -r week1/
+  593  ls
+  594  cd /Users/Pavel/Desktop/Books/OSs/git/week1 
+  595  ls
+  596  nano ex1.txt
+  597  history > ex2.txt
