@@ -12,7 +12,9 @@ int current_size = 0;
 pthread_t consumer;
 pthread_t producer;
 
+
 void *consume();
+
 
 void *produce() {
     while (1){
