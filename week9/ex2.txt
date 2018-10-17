@@ -1,0 +1,5 @@
+sequence 1 1 ... 1 (1 n times) will give ratio hit/miss = n/1
+comment: if we use only one page frame we won't need to swap anything (only one load in memory)
+
+sequence 1 2 ... n (range(1, n)) will give ratio hit/miss = 0/n
+comment: if we use new page each time we will need to make swap each time (n loads in memory)
