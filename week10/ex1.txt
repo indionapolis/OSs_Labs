@@ -1,0 +1,7 @@
+total 24
+8608219934 drwxr-xr-x   6 pavel  staff   192B Oct 24 14:46 .
+8605277992 drwxr-xr-x  16 pavel  staff   512B Oct 24 12:43 ..
+8608224738 -rw-r--r--   3 pavel  staff     5B Oct 24 14:44 _ex1.txt
+8608224738 -rw-r--r--   3 pavel  staff     5B Oct 24 14:44 _ex1_1.txt
+8608224738 -rw-r--r--   3 pavel  staff     5B Oct 24 14:44 _ex1_2.txt
+8608220731 -rw-r--r--   1 pavel  staff     0B Oct 24 14:48 ex1.txt

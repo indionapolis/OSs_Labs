@@ -1,0 +1,7 @@
+-rw-r--r--  1 pavel  staff     1B Oct 24 16:00 _ex3.txt
+-rwxr--rwx  1 pavel  staff     1B Oct 24 16:00 _ex3.txt
+-rwxrwxrwx  1 pavel  staff     1B Oct 24 16:00 _ex3.txt
+
+6 6 0 - 110 110 000 = rw- rw- ---
+7 7 5 - 111 111 101 = rwx rwx r-x
+7 7 7 - 111 111 111 = rwx rwx rwx
