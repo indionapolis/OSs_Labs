@@ -1,0 +1,2 @@
+In first case, string sored in buffer, so both processes will have copy of buffer -> copy of string and it will be
+released by \n in both processes. In second case, string released straightway by \n so only one copy exist.
