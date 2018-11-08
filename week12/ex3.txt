@@ -11,7 +11,7 @@ close output
 
 real	0m3.134s
 user	0m0.505s
-sys 0m2.568s
+sys   0m2.568s
 
 Buffer size: 1024
 opening file /Users/Pavel/programs/OSs/git/week12/big.txt
@@ -22,7 +22,7 @@ close output
 
 real	0m0.050s
 user	0m0.008s
-sys 0m0.037s
+sys   0m0.037s
 
 Buffer size: 102400
 opening file /Users/Pavel/programs/OSs/git/week12/big.txt
@@ -33,7 +33,7 @@ close output
 
 real	0m0.011s
 user	0m0.002s
-sys 0m0.006s
+sys   0m0.006s
 
 
 
@@ -48,7 +48,7 @@ close output
 
 real	0m33.499s
 user	0m0.620s
-sys 0m19.208s
+sys   0m19.208s
 
 Buffer size: 1024
 opening file /Users/Pavel/programs/OSs/git/week12/big.txt
@@ -59,7 +59,7 @@ close output
 
 real	0m0.360s
 user	0m0.008s
-sys 0m0.204s
+sys   0m0.204s
 
 Buffer size: 102400
 opening file /Users/Pavel/programs/OSs/git/week12/big.txt
@@ -70,4 +70,4 @@ close output
 
 real	0m0.019s
 user	0m0.002s
-sys 0m0.009s
+sys   0m0.009s
