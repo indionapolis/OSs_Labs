@@ -1,7 +1,6 @@
 //
 // Created by Pavel on 14/11/2018.
 //
-
 // input format:
 // E - existing resource vector int[]
 //
